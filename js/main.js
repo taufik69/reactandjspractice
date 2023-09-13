@@ -158,4 +158,7 @@ var nam = "taufik";
 
 // console.log(age && job);
 
-// 
+//  unary operator
+
+let a = 12;
+12 == 10 ? console.log("Yes it is 10 ") : console.log(" it is not ten");
